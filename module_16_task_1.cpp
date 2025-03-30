@@ -26,6 +26,8 @@ int main()
         }
         
     } while (equality(speed_value, speed_delta, epsilon)); 
-    std::cout << "Opaa" << std::endl;    
+
+    std::cout << "Opapa" << std::endl;    
+
     
 }
