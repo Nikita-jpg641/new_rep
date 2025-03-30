@@ -25,6 +25,8 @@ int main()
             exit(1);
         }
         
-    } while (equality(speed_value, speed_delta, epsilon));     
+    } while (equality(speed_value, speed_delta, epsilon)); 
+  std::cout << "Opapa" << std::endl;
+  std::cout << "work" << std::endl;
     
 }
